@@ -3,6 +3,6 @@
     "source.fixAll.eslint": true
   },
   "code-runner.executorMap": {
-    "typescript": "node_modules/.bin/ts-node-dev --inspect --"
+    "typescript": "/usr/local/bin/node -r ts-node/register"
   },
 }
